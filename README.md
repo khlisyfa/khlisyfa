@@ -1,7 +1,7 @@
 # Hi there, I’m khlisyfa 👋
 
 🎓 Student | Future Uni Freshman  
-💻 Currently learning: Python, Java, HTML  
+💻 Currently learning: Python, Javascript, HTML  
 🛠️ Taking on simple projects while preparing for university  
 🌱 Always open to connecting with fellow learners & joining new communities  
 ✨ Fun minimalist, always discovering something new
