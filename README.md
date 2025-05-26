@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I’m khlisyfa 👋
+
+🎓 Student | Future Uni Freshman  
+💻 Currently learning: Python, Java, HTML  
+🛠️ Taking on simple projects while preparing for university  
+🌱 Always open to connecting with fellow learners & joining new communities  
+✨ Fun minimalist, always discovering something new
+
+---
+
+> “Learning is a journey, not a race.”
 
 <!--
-**khlisyfa/khlisyfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out if you want to collaborate or just chat about code & learning!
 -->
